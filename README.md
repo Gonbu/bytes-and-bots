@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## Utilisation
 ```shell
-TODO: Ajouter les commandes pour lancer le projet
+Ouvrir le fichier price_finder.ipynb et Run All (CTRL + ALT + MAJ + ENTREE)
 ```
 
 ## Contributeurs
