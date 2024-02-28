@@ -8,6 +8,7 @@ Objectif: Être capable de prédire le prix d'un bien immobilier
 
 ## Installation
 ```shell
+git clone https://github.com/Gonbu/bytes-and-bots.git
 cd bytes-and-bots
 virtualenv -p python3 venv
 source venv/bin/activate
